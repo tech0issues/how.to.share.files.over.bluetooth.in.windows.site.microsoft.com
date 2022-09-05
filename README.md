@@ -1,7 +1,6 @@
 # how to share files over bluetooth in windows site microsoft.com
 
-[![how to share files over bluetooth in windows site microsoft.com](get-detail.png)](https://github.com/tech0issues/how.to.share.files.over.bluetooth.in.windows.site.microsoft.com
-)
+[![how to share files over bluetooth in windows site microsoft.com](get-detail.png)](https://icncomputer.com/how-to-share-files-over-bluetooth-in-windows/)
 
 In Bluetooth & other devices settings, select Send or receive files via Bluetooth. In Bluetooth File Transfer, select Send files > choose the device you want to share to > Next. Select Browse > the file or files to share > Open > Next (which sends it) > Finish.
 
